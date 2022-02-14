@@ -1,2 +1,2 @@
 # KatasObedGarciaLaunchX
-Katas realizadas para el curso de Python del programa Launch X 
+Katas realizadas para ela misión onboarding de Python del programa Launch X 
